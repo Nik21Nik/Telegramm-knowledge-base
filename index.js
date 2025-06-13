@@ -6,7 +6,7 @@ const path = require('path');
 
 const TelegramBot = require('node-telegram-bot-api');
 
-const API_KEY_BOT = '7851357757:AAFqPL-9bDPkr9cEDBhmDn_J7GLUtNENCgM';
+const API_KEY_BOT = '';
 
 //const authorizedUserId = ; // Сюда пишем айди аккаунта или нескольких аккаунтов для администрирования.
 
